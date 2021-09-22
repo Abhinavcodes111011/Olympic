@@ -1,0 +1,14 @@
+h1
+{
+	color:white; 
+	font-size: 40px;
+}
+.body_backgrund {
+  background-color:purple;
+}
+
+#myCanvas{
+border-width: 20px;
+border-style: outset;
+background-color: white;
+}
